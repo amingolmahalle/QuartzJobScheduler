@@ -8,4 +8,8 @@
       <PackageReference Include="Quartz" Version="3.1.0" />
     </ItemGroup>
 
+    <ItemGroup>
+      <Content Include="Script_Data.sql" />
+    </ItemGroup>
+
 </Project>

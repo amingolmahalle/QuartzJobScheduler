@@ -19,10 +19,10 @@
           <e p="QuartzConfigExtensions.cs" t="Include" />
           <e p="QuartzSettings.cs" t="Include" />
           <e p="QuartzSettingsExtensions.cs" t="Include" />
-          <e p="Script_Create_Tables.sql" t="Include" />
-          <e p="Script_Data.sql" t="Include" />
         </e>
         <e p="QuartzJob.csproj" t="IncludeRecursive" />
+        <e p="Script_Create_Tables.sql" t="Include" />
+        <e p="Script_Data.sql" t="Include" />
         <e p="Startup.cs" t="Include" />
         <e p="appsettings.Development.json" t="Include" />
         <e p="appsettings.json" t="Include" />

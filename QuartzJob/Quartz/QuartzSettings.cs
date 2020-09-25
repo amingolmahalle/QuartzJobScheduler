@@ -31,7 +31,5 @@ namespace QuartzJob.Quartz
         public string DataSourceSqlserverDsProvider { get; set; }
 
         public string DataSourceSqlserverDsConnectionString { get; set; }
-
-        public string TimeZone { get; set; }
     }
 }

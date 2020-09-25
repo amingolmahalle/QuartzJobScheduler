@@ -4,11 +4,31 @@
     <projectFile>QuartzJob/QuartzJob.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d20bb43c-24ad-42b3-a512-a3405eec0f5c" name="Default Changelist" comment="" />
+    <list default="true" id="d20bb43c-24ad-42b3-a512-a3405eec0f5c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.QuartzJob/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.QuartzJob/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.QuartzJob/.idea/sqldialects.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.QuartzJob/.idea/sqldialects.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.QuartzJob/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.QuartzJob/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuartzJob/Quartz/CustomQuartzHostedService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/QuartzJob/Quartz/CustomQuartzHostedService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuartzJob/Quartz/JobMetadata.cs" beforeDir="false" afterPath="$PROJECT_DIR$/QuartzJob/Quartz/JobMetadata.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuartzJob/Quartz/QuartzConfigExtensions.cs" beforeDir="false" afterPath="$PROJECT_DIR$/QuartzJob/Quartz/QuartzConfigExtensions.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuartzJob/Quartz/QuartzSettings.cs" beforeDir="false" afterPath="$PROJECT_DIR$/QuartzJob/Quartz/QuartzSettings.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuartzJob/Quartz/Script.tsql" beforeDir="false" afterPath="$PROJECT_DIR$/QuartzJob/Quartz/Script_Data.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuartzJob/appsettings.Development.json" beforeDir="false" afterPath="$PROJECT_DIR$/QuartzJob/appsettings.Development.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuartzJob/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/QuartzJob/appsettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuartzJob/bin/Debug/netcoreapp3.1/QuartzJob.dll" beforeDir="false" afterPath="$PROJECT_DIR$/QuartzJob/bin/Debug/netcoreapp3.1/QuartzJob.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuartzJob/bin/Debug/netcoreapp3.1/QuartzJob.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/QuartzJob/bin/Debug/netcoreapp3.1/QuartzJob.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuartzJob/bin/Debug/netcoreapp3.1/appsettings.Development.json" beforeDir="false" afterPath="$PROJECT_DIR$/QuartzJob/bin/Debug/netcoreapp3.1/appsettings.Development.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuartzJob/bin/Debug/netcoreapp3.1/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/QuartzJob/bin/Debug/netcoreapp3.1/appsettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuartzJob/obj/Debug/netcoreapp3.1/QuartzJob.dll" beforeDir="false" afterPath="$PROJECT_DIR$/QuartzJob/obj/Debug/netcoreapp3.1/QuartzJob.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuartzJob/obj/Debug/netcoreapp3.1/QuartzJob.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/QuartzJob/obj/Debug/netcoreapp3.1/QuartzJob.pdb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/807DF784-9199-494D-8C79-DE710BCE2A40/1D8/ExceptionDispatchInfo.cs" root0="SKIP_HIGHLIGHTING" />
@@ -31,29 +51,30 @@
         <option value="$PROJECT_DIR$/QuartzJob/Quartz/Settings.cs" />
         <option value="$PROJECT_DIR$/QuartzJob/Quartz/QuartzSettingsExtensions.cs" />
         <option value="$PROJECT_DIR$/QuartzJob/Quartz/CustomQuartzJobFactory.cs" />
-        <option value="$PROJECT_DIR$/QuartzJob/Quartz/JobMetadata.cs" />
-        <option value="$PROJECT_DIR$/QuartzJob/Quartz/QuartzSettings.cs" />
         <option value="$PROJECT_DIR$/QuartzJob/Program.cs" />
         <option value="$PROJECT_DIR$/QuartzJob/Startup.cs" />
         <option value="$PROJECT_DIR$/QuartzJob/Job/NotificationJob.cs" />
-        <option value="$PROJECT_DIR$/QuartzJob/Quartz/CustomQuartzHostedService.cs" />
         <option value="$PROJECT_DIR$/QuartzJob/Quartz/Script.txt" />
         <option value="$PROJECT_DIR$/QuartzJob/Quartz/Script.tsql" />
-        <option value="$PROJECT_DIR$/QuartzJob/Quartz/QuartzConfigExtensions.cs" />
         <option value="$PROJECT_DIR$/QuartzJob/appsettings.Development.json" />
+        <option value="$PROJECT_DIR$/QuartzJob/Quartz/QuartzSettings.cs" />
         <option value="$PROJECT_DIR$/QuartzJob/appsettings.json" />
+        <option value="$PROJECT_DIR$/QuartzJob/Quartz/CustomQuartzHostedService.cs" />
+        <option value="$PROJECT_DIR$/QuartzJob/Quartz/JobMetadata.cs" />
+        <option value="$PROJECT_DIR$/QuartzJob/Quartz/QuartzConfigExtensions.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="1hotuCgst3NbKbY8fFdthGufAy0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.66233766" />
-    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.29983062" />
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.6621238" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.29982963" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="XThreadsFramesViewSplitterKey" value="0.26450512" />
@@ -95,6 +116,17 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
@@ -107,94 +139,94 @@
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
     <state x="754" y="299" width="1003" height="509" key="#xdebugger.evaluate/72.27.1848.1053@72.27.1848.1053" timestamp="1600710720872" />
-    <state width="504" height="505" key="DebuggerActiveHint" timestamp="1600783818019">
+    <state width="504" height="505" key="DebuggerActiveHint" timestamp="1601043180749">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state width="504" height="505" key="DebuggerActiveHint/72.27.1848.1053@72.27.1848.1053" timestamp="1600783818019" />
-    <state width="1802" height="275" key="GridCell.Tab.0.bottom" timestamp="1600783986060">
+    <state width="504" height="505" key="DebuggerActiveHint/72.27.1848.1053@72.27.1848.1053" timestamp="1601043180749" />
+    <state width="1792" height="367" key="GridCell.Tab.0.bottom" timestamp="1601043185587">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state width="1802" height="275" key="GridCell.Tab.0.bottom/72.27.1848.1053@72.27.1848.1053" timestamp="1600783986060" />
-    <state width="1802" height="275" key="GridCell.Tab.0.center" timestamp="1600783986057">
+    <state width="1792" height="367" key="GridCell.Tab.0.bottom/72.27.1848.1053@72.27.1848.1053" timestamp="1601043185587" />
+    <state width="1792" height="367" key="GridCell.Tab.0.center" timestamp="1601043185584">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state width="1802" height="275" key="GridCell.Tab.0.center/72.27.1848.1053@72.27.1848.1053" timestamp="1600783986057" />
-    <state width="1802" height="275" key="GridCell.Tab.0.left" timestamp="1600783986056">
+    <state width="1792" height="367" key="GridCell.Tab.0.center/72.27.1848.1053@72.27.1848.1053" timestamp="1601043185584" />
+    <state width="1792" height="367" key="GridCell.Tab.0.left" timestamp="1601043185583">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state width="1802" height="275" key="GridCell.Tab.0.left/72.27.1848.1053@72.27.1848.1053" timestamp="1600783986056" />
-    <state width="1802" height="275" key="GridCell.Tab.0.right" timestamp="1600783986058">
+    <state width="1792" height="367" key="GridCell.Tab.0.left/72.27.1848.1053@72.27.1848.1053" timestamp="1601043185583" />
+    <state width="1792" height="367" key="GridCell.Tab.0.right" timestamp="1601043185586">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state width="1802" height="275" key="GridCell.Tab.0.right/72.27.1848.1053@72.27.1848.1053" timestamp="1600783986058" />
-    <state width="1802" height="367" key="GridCell.Tab.1.bottom" timestamp="1600783846577">
+    <state width="1792" height="367" key="GridCell.Tab.0.right/72.27.1848.1053@72.27.1848.1053" timestamp="1601043185586" />
+    <state width="1792" height="367" key="GridCell.Tab.1.bottom" timestamp="1601043185591">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state width="1802" height="367" key="GridCell.Tab.1.bottom/72.27.1848.1053@72.27.1848.1053" timestamp="1600783846577" />
-    <state width="1802" height="367" key="GridCell.Tab.1.center" timestamp="1600783846577">
+    <state width="1792" height="367" key="GridCell.Tab.1.bottom/72.27.1848.1053@72.27.1848.1053" timestamp="1601043185591" />
+    <state width="1792" height="367" key="GridCell.Tab.1.center" timestamp="1601043185589">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state width="1802" height="367" key="GridCell.Tab.1.center/72.27.1848.1053@72.27.1848.1053" timestamp="1600783846577" />
-    <state width="1802" height="367" key="GridCell.Tab.1.left" timestamp="1600783846576">
+    <state width="1792" height="367" key="GridCell.Tab.1.center/72.27.1848.1053@72.27.1848.1053" timestamp="1601043185589" />
+    <state width="1792" height="367" key="GridCell.Tab.1.left" timestamp="1601043185588">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state width="1802" height="367" key="GridCell.Tab.1.left/72.27.1848.1053@72.27.1848.1053" timestamp="1600783846576" />
-    <state width="1802" height="367" key="GridCell.Tab.1.right" timestamp="1600783846577">
+    <state width="1792" height="367" key="GridCell.Tab.1.left/72.27.1848.1053@72.27.1848.1053" timestamp="1601043185588" />
+    <state width="1792" height="367" key="GridCell.Tab.1.right" timestamp="1601043185590">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state width="1802" height="367" key="GridCell.Tab.1.right/72.27.1848.1053@72.27.1848.1053" timestamp="1600783846577" />
-    <state width="1802" height="367" key="GridCell.Tab.2.bottom" timestamp="1600783846577">
+    <state width="1792" height="367" key="GridCell.Tab.1.right/72.27.1848.1053@72.27.1848.1053" timestamp="1601043185590" />
+    <state width="1792" height="367" key="GridCell.Tab.2.bottom" timestamp="1601043185596">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state width="1802" height="367" key="GridCell.Tab.2.bottom/72.27.1848.1053@72.27.1848.1053" timestamp="1600783846577" />
-    <state width="1802" height="367" key="GridCell.Tab.2.center" timestamp="1600783846577">
+    <state width="1792" height="367" key="GridCell.Tab.2.bottom/72.27.1848.1053@72.27.1848.1053" timestamp="1601043185596" />
+    <state width="1792" height="367" key="GridCell.Tab.2.center" timestamp="1601043185594">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state width="1802" height="367" key="GridCell.Tab.2.center/72.27.1848.1053@72.27.1848.1053" timestamp="1600783846577" />
-    <state width="1802" height="367" key="GridCell.Tab.2.left" timestamp="1600783846577">
+    <state width="1792" height="367" key="GridCell.Tab.2.center/72.27.1848.1053@72.27.1848.1053" timestamp="1601043185594" />
+    <state width="1792" height="367" key="GridCell.Tab.2.left" timestamp="1601043185592">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state width="1802" height="367" key="GridCell.Tab.2.left/72.27.1848.1053@72.27.1848.1053" timestamp="1600783846577" />
-    <state width="1802" height="367" key="GridCell.Tab.2.right" timestamp="1600783846577">
+    <state width="1792" height="367" key="GridCell.Tab.2.left/72.27.1848.1053@72.27.1848.1053" timestamp="1601043185592" />
+    <state width="1792" height="367" key="GridCell.Tab.2.right" timestamp="1601043185595">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state width="1802" height="367" key="GridCell.Tab.2.right/72.27.1848.1053@72.27.1848.1053" timestamp="1600783846577" />
-    <state width="1802" height="367" key="GridCell.Tab.3.bottom" timestamp="1600783846578">
+    <state width="1792" height="367" key="GridCell.Tab.2.right/72.27.1848.1053@72.27.1848.1053" timestamp="1601043185595" />
+    <state width="1792" height="367" key="GridCell.Tab.3.bottom" timestamp="1601043185598">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state width="1802" height="367" key="GridCell.Tab.3.bottom/72.27.1848.1053@72.27.1848.1053" timestamp="1600783846578" />
-    <state width="1802" height="367" key="GridCell.Tab.3.center" timestamp="1600783846578">
+    <state width="1792" height="367" key="GridCell.Tab.3.bottom/72.27.1848.1053@72.27.1848.1053" timestamp="1601043185598" />
+    <state width="1792" height="367" key="GridCell.Tab.3.center" timestamp="1601043185597">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state width="1802" height="367" key="GridCell.Tab.3.center/72.27.1848.1053@72.27.1848.1053" timestamp="1600783846578" />
-    <state width="1802" height="367" key="GridCell.Tab.3.left" timestamp="1600783846577">
+    <state width="1792" height="367" key="GridCell.Tab.3.center/72.27.1848.1053@72.27.1848.1053" timestamp="1601043185597" />
+    <state width="1792" height="367" key="GridCell.Tab.3.left" timestamp="1601043185596">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state width="1802" height="367" key="GridCell.Tab.3.left/72.27.1848.1053@72.27.1848.1053" timestamp="1600783846577" />
-    <state width="1802" height="367" key="GridCell.Tab.3.right" timestamp="1600783846578">
+    <state width="1792" height="367" key="GridCell.Tab.3.left/72.27.1848.1053@72.27.1848.1053" timestamp="1601043185596" />
+    <state width="1792" height="367" key="GridCell.Tab.3.right" timestamp="1601043185598">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state width="1802" height="367" key="GridCell.Tab.3.right/72.27.1848.1053@72.27.1848.1053" timestamp="1600783846578" />
-    <state width="1802" height="367" key="GridCell.Tab.4.bottom" timestamp="1600783846579">
+    <state width="1792" height="367" key="GridCell.Tab.3.right/72.27.1848.1053@72.27.1848.1053" timestamp="1601043185598" />
+    <state width="1792" height="367" key="GridCell.Tab.4.bottom" timestamp="1601043185601">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state width="1802" height="367" key="GridCell.Tab.4.bottom/72.27.1848.1053@72.27.1848.1053" timestamp="1600783846579" />
-    <state width="1802" height="367" key="GridCell.Tab.4.center" timestamp="1600783846578">
+    <state width="1792" height="367" key="GridCell.Tab.4.bottom/72.27.1848.1053@72.27.1848.1053" timestamp="1601043185601" />
+    <state width="1792" height="367" key="GridCell.Tab.4.center" timestamp="1601043185600">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state width="1802" height="367" key="GridCell.Tab.4.center/72.27.1848.1053@72.27.1848.1053" timestamp="1600783846578" />
-    <state width="1802" height="367" key="GridCell.Tab.4.left" timestamp="1600783846578">
+    <state width="1792" height="367" key="GridCell.Tab.4.center/72.27.1848.1053@72.27.1848.1053" timestamp="1601043185600" />
+    <state width="1792" height="367" key="GridCell.Tab.4.left" timestamp="1601043185599">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state width="1802" height="367" key="GridCell.Tab.4.left/72.27.1848.1053@72.27.1848.1053" timestamp="1600783846578" />
-    <state width="1802" height="367" key="GridCell.Tab.4.right" timestamp="1600783846579">
+    <state width="1792" height="367" key="GridCell.Tab.4.left/72.27.1848.1053@72.27.1848.1053" timestamp="1601043185599" />
+    <state width="1792" height="367" key="GridCell.Tab.4.right" timestamp="1601043185600">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state width="1802" height="367" key="GridCell.Tab.4.right/72.27.1848.1053@72.27.1848.1053" timestamp="1600783846579" />
-    <state width="924" height="526" key="XDebugger.FullValuePopup" timestamp="1600783818016">
+    <state width="1792" height="367" key="GridCell.Tab.4.right/72.27.1848.1053@72.27.1848.1053" timestamp="1601043185600" />
+    <state width="924" height="526" key="XDebugger.FullValuePopup" timestamp="1601043179731">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state width="924" height="526" key="XDebugger.FullValuePopup/72.27.1848.1053@72.27.1848.1053" timestamp="1600783818016" />
+    <state width="924" height="526" key="XDebugger.FullValuePopup/72.27.1848.1053@72.27.1848.1053" timestamp="1601043179731" />
     <state x="653" y="292" width="685" height="522" key="find.popup" timestamp="1600783269601">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
@@ -231,16 +263,29 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/QuartzJob/Quartz/CustomQuartzHostedService.cs</url>
+          <line>50</line>
+          <properties documentPath="$PROJECT_DIR$/QuartzJob/Quartz/CustomQuartzHostedService.cs" initialLine="50">
+            <startOffsets>
+              <option value="1784" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1785" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/QuartzJob/Quartz/CustomQuartzHostedService.cs</url>
           <line>49</line>
           <properties documentPath="$PROJECT_DIR$/QuartzJob/Quartz/CustomQuartzHostedService.cs" initialLine="49">
             <startOffsets>
-              <option value="1721" />
+              <option value="1702" />
             </startOffsets>
             <endOffsets>
-              <option value="1782" />
+              <option value="1763" />
             </endOffsets>
           </properties>
-          <option name="timeStamp" value="14" />
+          <option name="timeStamp" value="16" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

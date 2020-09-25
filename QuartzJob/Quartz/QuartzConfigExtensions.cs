@@ -24,7 +24,7 @@ namespace QuartzJob.Quartz
                     Guid.NewGuid(),
                     typeof(NotificationJob),
                     "Notification Job",
-                    "0/3 * * * * ?")); // Execute job every 3 second everyday
+                    "0 0/1 * 1/1 * ? *")); // Execute job every 1 minute
             
             // services.AddSingleton(
             //     new JobMetadata(

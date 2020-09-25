@@ -45,7 +45,7 @@ namespace QuartzJob.Quartz
                 foreach (var jobMetadata in _jobsMetadata)
                 {
                     var job = CreateJob(jobMetadata);
-                    var trigger = CreateTrigger(jobMetadata, settings.TimeZone);
+                    var trigger = CreateTrigger(jobMetadata);
 
                     if (!await Scheduler.CheckExists(job.Key, cancellationToken))
                     {
@@ -78,13 +78,16 @@ namespace QuartzJob.Quartz
                 .Build();
         }
 
-        private static ITrigger CreateTrigger(JobMetadata schedule, string timeZone)
+        private ITrigger CreateTrigger(JobMetadata schedule)
         {
             return TriggerBuilder
                 .Create()
                 .WithIdentity($"{schedule.JobType.FullName}.trigger")
-                .WithCronSchedule(schedule.CronExpression,
-                    x => x.InTimeZone(TimeZoneInfo.FindSystemTimeZoneById(timeZone)))
+                .WithCronSchedule(schedule.CronExpression)
+                // .WithCronSchedule(schedule.CronExpression,
+                //     x => x.InTimeZone(TimeZoneInfo.FindSystemTimeZoneById("Asia/Tehran"))) // For Linux OS
+                // .WithCronSchedule(schedule.CronExpression,
+                //     x => x.InTimeZone(TimeZoneInfo.FindSystemTimeZoneById("Iran Standard Time"))) // For Windows OS
                 .WithDescription(schedule.CronExpression)
                 .Build();
         }
